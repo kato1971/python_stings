@@ -3,7 +3,6 @@ __winc_id__ = '71dd124b4a6e4d268f5973db521394ee'
 __human_name__ = 'strings'
 
 # Add your code after this line
-
 """ PART 1 """
 scorer_0 = 'Ruud Gullit'
 scorer_1 = 'Marco van Basten'
@@ -39,3 +38,7 @@ print(chant)
 
 good_chant = chant[-1] != " "
 print(good_chant)
+print(2 != 3)
+print(2 != 2)
+
+
